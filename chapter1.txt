@@ -1,0 +1,69 @@
+Bering Strait
+id: a land bridge hunters and gatherers crossed from Siberia to Alaska during the last Ice Age bringing them to the Americas. When the Ice Age ended the water levels rose and covered the bridge making it an expanse of water.
+sig: creation of the Bering Strait severed the migrants last ties with Asia and Europe. Because of this the Native Americans did not have the same exposure to the diseases that later ravanged their populations, the land bridge also brought them to the Americas.
+Mayans
+id: an Indian peoples that lived on the Yucatan Pennisula. They built big urban centers and elaborate irrigation systems. Mayans were mostly farmers that built the city's stone temples to worship the gods. They had elites and artisans too.
+sig: famine weakened the Mayan civilization so when the Spanish conquistadors arrived in the 1520s there wasn't much resistance. They were one of the first great and elaborate Indian civilizations but also one of the first to fall.
+Aztecs
+id: an Indian group that lived in present-day Mexico City. Their city was called Tenochtilan, and designed to show understanding of the divine cosmos. They developed complex irrigation systems and lived in a hierarchical society. They were aggresive and sacrificial with priests and warriors.
+sig: The Aztecs were conquered by Hernan Cortes. They were one of the wealthiest extensive empires of the time. They were probably the hardest civilization to conquer because they were so powerful and hadn't fallen apart yet, like the Mayans. They also built magnificent stone temples. 
+Hernan de Soto
+id: A spanish conquistador who invaded the Mississippian Indians territory.
+sig: Hernan de Soto killed, enslaved, and raped Indians to try and find gold in the Northern Florida region. Like most Spanish explorers though, there was no gold to be found.
+European Peasant Society
+id: The society dictated peasant life in 15th century Europe, mainly the type of crops grown in the fields.
+sig: The society created a structure that ensured everyone would work hard and do their part to help the community.
+Roman Catholic Church
+id: The Roman Catholic Church was the main religion in Europe for centuries. They ruled all aspects of life through governments until church and state were seperated. The pop was the leader with religious centers in Jerusalem and the Vatican City. 
+sig: The church's total control and hard set rules led to King Henry VIII's creation of the Church of England and the start of Lutheranism and Calvinism. The church also ordered the Crusades to reclaim the Holy Land.
+Crusades
+id: A series of military campaigns to reestablish Christianity into the city of Jerusalem, which was under the control of the Muslims.
+sig: The Crusades introduced Western Europeans to the trade oppurtunities in the East such as spices and silks. They also paved the path for colonization, Columbus's voyage, and modern Jerusalem.
+The Renaissance
+id: a period of discovery and invention in Europe. This era Monled to the discovery of many elements. It also brought forth inventions such as the printing press. The Crusades introduced Arab mathematics, astronomy, medicince, and many other inventions.
+sig: the Renaissance paved the way for modern inventions and modern scientists like Albert Einstein. Art was also a big part of this time, producing famous artists like Michelangelo and Leonardo da Vinci.
+Portuguese Exploration and Trade
+id: Portugal jump started overseas trader in Europe and for a while they dominated it. They set up the first European port in Africa and traded gold and slaves with the Arab traders there. They also started the slave trade.
+sig: Portugal's exploration of West Africa, opened up the whole continent to the European traders. They all exported tons of slaves and colonized all of Africa.
+Ferdinand and Isabel
+id: They were the King and Queen of Spain.They drove the last of the Moorish conqurers from Granada. They also funded Columbus's journey to find a faster route to India, ultimately discovering the Americas.
+sig: Isabel and Ferdinand were strongly Roman Catholic and started the exploration of the American continents, in an attempt to make Spain a powerful European country, spread religion, and find gold.
+Christopher Columbus
+id: An Italian explorer from Genoa who was sponsored by Ferdinand and Isabel to lead an exploration and find a faster route to India and Asia. He ultimately found the Americas.
+sig: Columbus discovered the American continents, which led to the migration and settlement of it, but also the exploitation of the natives living in the regions.
+Hernan Cortes
+id: Cortes was a Spanish conquistador set to present day Mexico to find gold. He ultimately conquered the Aztec people from the Mexico City area. 
+sig: His conquest is probably one of the most famous of our time. He cruely murdered and stole from the great Aztec empire. He also defeated the Mayans. He was thought to be the god Quezacuatl.
+Moctezuma
+id: The Aztec emperor that Cortes killed.
+sig: He made the mistake of not organizing a fighting front that would have saved his city from destruction. His mistake was thinking Cortes was a god.
+Smallpox
+id:A disease from Europe that was deadly when not treated and covered the infected with pustules.
+sig: Smallpox was one of the many diseases brought to the Americas from Europe by explorerers. These diseases killed off thousands of natives because they didn't have immunities against them. Because of the severe population decrease explorers had no problems dispatching of the Indians.
+Francisco Pizarro
+id: The Spanish conquistador who defeated the Incas in Peru.
+sig: He conquered Peru for the Spanish empire. The first location on the Pacific Ocean. He killed the last Incan emporer.
+Encomiendas
+id: property given to conquerors that also allowed them control over native slaves.
+sig: These early plantations contributed to many deaths as well. They also were the reason African slaves started coming to the Americas.
+Columbian Exchange
+id: The trade and distribution routes of crops, diseases, and animals from the Americas, Europe, and Africa. Included maize, cacao, tomatoes, syphilis, and pigs.
+sig: exposed the world to what had been hidden from them. created great trade economies and set up for colonization.
+Martin Luther
+id: He was a German monk who protested the Church's selling of indulgences and wrote his famous 95 Theses condeming the church.
+sig: He started the seperation of countries from the church and founded Lutheranism with his ideas.
+King Henry VIII
+id: A King of England in the 1500s, who seperated from the Catholic Church  and created the Protestant Church of England. He also had 8 wives.
+sig: His creation of the Protestant religion  caused many religious troubles in England and ultimately drove the Puritans to the New World.
+Puritans
+id: radical English Protestants who wanted to rid Queen Elizabeth's church of all Catholic teachings. They migrated to North America to find religious freedom.
+sig: They set up the first colonies in North America and started the immigration movement from overcrowded England.
+Spanish Armada
+id: The Spanish naval fleet.  Most powerful navy of the time in Western Europe.
+sig: defeated by Queen Elizabeth's navy, while trying to destroy England's challenge to Catholicism.
+Mercantilism
+id: a system of trade and government assisted manufacturing.
+sig: encouraged by Elizabeth, textile production started, this resulted in a huge economic boost for England. laid a foundation for overseas colonization.
+Treaty of Tordesillas
+id: an agreement between the Portugese and Spanish dividing the new lands of Africa(Portugese) and the Americas(Spanish).
+sig: the treaty originally secured Portugese and Spanish power over their lands. At the decline of these empires though other Europeans countries ignored the treaty anad claimed the land for themselves as colonies.
